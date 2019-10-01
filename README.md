@@ -1,0 +1,1 @@
+# POC with pub/sub pattern
